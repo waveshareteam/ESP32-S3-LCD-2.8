@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.com/esp32-s3-touch-lcd-2.8.htm">🛒 产品</a> &middot;
-    <a href="https://docs.waveshare.com/ESP32-S3-LCD-2.8/Firmware-Flashing">📦 固件</a> &middot;
+    <a href="firmware/">📦 固件</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="https://docs.waveshare.net/ESP32-S3-LCD-2.8/">📖 文档</a>
   </p>
@@ -30,9 +30,7 @@
 
 ## 📦 快速开始
 
-1. 从[官方烧录说明](https://docs.waveshare.com/ESP32-S3-LCD-2.8/Firmware-Flashing)下载此型号的原包测试固件。
-2. 使用 USB 连接对应型号的开发板，按说明烧录。
-3. 从源码构建时，请参照下方 ESP-IDF 示例说明。
+板载功能测试固件及烧录步骤见 [firmware/](firmware/)。如需运行 ESP-IDF 示例，请参照下方的示例说明。
 
 ## 🧪 示例
 

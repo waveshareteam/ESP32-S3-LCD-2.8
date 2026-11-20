@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.com/esp32-s3-touch-lcd-2.8.htm">🛒 Product</a> &middot;
-    <a href="https://docs.waveshare.com/ESP32-S3-LCD-2.8/Firmware-Flashing">📦 Firmware</a> &middot;
+    <a href="firmware/">📦 Firmware</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="https://docs.waveshare.com/ESP32-S3-LCD-2.8/">📖 Documentation</a>
   </p>
@@ -30,9 +30,7 @@ This board includes a 2.8-inch LCD, a speaker, a six-axis IMU, and a microSD slo
 
 ## 📦 Quick Start
 
-1. Find the original board test image in the [official flashing instructions](https://docs.waveshare.com/ESP32-S3-LCD-2.8/Firmware-Flashing).
-2. Connect the matching board over USB and follow the flashing guide.
-3. To build from source, follow the ESP-IDF example guide below.
+Download the board test image and follow the instructions in [firmware/](firmware/). To run the ESP-IDF example, follow its guide below.
 
 ## 🧪 Examples
 
